@@ -35,27 +35,35 @@ This software has a Graphical User Interface (GUI). There are two ways to launch
 2. In the python terminal: python GUI.py
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p1.png" width=80% height=80%>
+
 #### Classify X-ray Images
-In the GUI, click the Input Image and upload the chest X-ray image. CCXrDC supports input files of .jpg, .png and .jpeg. 
+
+In the GUI, click the `Input Image` and upload the chest X-ray image. CCXrDC supports input files of .jpg, .png and .jpeg. 
 Choose the preferred model (VGG11 or CNN model) to classify pneumonia types.
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p2.png" width=60% height=60%>
-Click the Determine button, GUI will return a classification message and corresponding suggestions. If the result is COVID-19, a link to WHO guidance for self-management after COVID-19-related illness will appear on the right.
+
+Click the `Determine` button, GUI will return a classification message and corresponding suggestions. If the result is COVID-19, a link to WHO guidance for self-management after COVID-19-related illness will appear on the right.
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p3.png" width=60% height=60%>
 
 #### Sharpen X-ray Images
-Click the Sharpen button and a processed image will spontaneously appear. Click the Save the image button and you can save the processed image in your selected path.
+
+Click the `Sharpen` button and a processed image will spontaneously appear. Click the `Save the image` button and you can save the processed image in your selected path.
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p4.png" width=60% height=60%>
+
 #### Segment X-ray Images
-Click the Segment button and a processed image will spontaneously appear. Click the Save the image button and you can save the processed image in your selected path.
+
+Click the `Segment` button and a processed image will spontaneously appear. Click the `Save the image` button and you can save the processed image in your selected path.
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p5.png" width=60% height=60%>
+
 #### Video Tutorial (Help)
-In the GUI, click the HELP button to watch a video tutorial.
+In the GUI, click the `HELP` button to watch a video tutorial.
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p6.png" width=60% height=60%>
+
 #### About us
 Right-click the GUI to know us.
 
@@ -63,7 +71,7 @@ Right-click the GUI to know us.
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p8.png" width=60% height=60%>
 
 #### Quit
-Click QUIT to close the program.
+Click `QUIT` to close the program.
 
 #### Warning/Conformation message
 If no image is loaded or no model is chosen, a warning message will appear. 
