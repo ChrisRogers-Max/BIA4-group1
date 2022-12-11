@@ -31,7 +31,7 @@ If you have further problems installing packages, we recommend you to refer to t
 
 ### Execution
 This software has a Graphical User Interface (GUI). There are two ways to launch the GUI. 
-1. Run the programme by directly clicking the python running button 
+1. Run the programme by directly clicking the `python running` button 
 2. In the python terminal: python GUI.py
 
 <img src="https://github.com/ChrisRogers-Max/Zongyu.gothub.io/blob/master/Pictures/p1.png" width=80% height=80%>
