@@ -1,6 +1,6 @@
 ## CNN Chest X-ray Disease Classifier (CCXrDC)
 ### Overview
-CNN Chest X-ray Disease Classifier (CCXrDC) is a pure Python3-based software, aiming to classify users’ input chest X-ray images into four categories: Normal (healthy lungs), Tuberculosis (TB), COVID-19 infection and Bacterial/Viral Pneumonia (TB and COVID-19 infections are excluded) using convolutional neuron network (CNN) and VERY DEEP CONVOLUTIONAL NETWORK (VGG-11). Here is the link of the video tutorial: `link of video`. 
+CNN Chest X-ray Disease Classifier (CCXrDC) is a Python3-based software, aiming to classify users’ input chest X-ray images into four categories: Normal (healthy lungs), Tuberculosis (TB), COVID-19 infection and Bacterial/Viral Pneumonia (TB and COVID-19 infections are excluded) using convolutional neuron network (CNN) and VERY DEEP CONVOLUTIONAL NETWORK (VGG-11). Here is the link of the video tutorial: `link of video`. 
 ### Software Requirement
 Download the software package from `the link of Github`, which requires more than 1GB memory. This software runs in Python3 environment. 
 ### Environment Preparation 
